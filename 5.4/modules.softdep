@@ -1,2 +1,0 @@
-# Soft dependencies extracted from modules themselves.
-softdep audio_machine_kona pre: bt_fm_slim
